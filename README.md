@@ -10,17 +10,17 @@
 | [✅]    | Easy       | #1929     | Concatenation of Array | [Link](https://leetcode.com/problems/concatenation-of-array/) |
 | [✅]    | Easy       | #1480     | Running Sum of 1d Array | [Link](https://leetcode.com/problems/running-sum-of-1d-array/) |
 | [✅]    | Easy       | #1672     | Richest Customer Wealth | [Link](https://leetcode.com/problems/richest-customer-wealth/) |
-| [ ]    | Easy       | #1470     | Shuffle the Array | [Link](https://leetcode.com/problems/shuffle-the-array/) |
-| [ ]    | Easy       | #1431     | Kids With the Greatest Number of Candies | [Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |
-| [ ]    | Easy       | #1512     | Number of Good Pairs | [Link](https://leetcode.com/problems/number-of-good-pairs/) |
-| [ ]    | Easy       | #1365     | How Many Numbers Are Smaller Than the Current Number | [Link](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
-| [ ]    | Easy       | #1389     | Create Target Array in the Given Order | [Link](https://leetcode.com/problems/create-target-array-in-the-given-order/) |
-| [ ]    | Easy       | #1295     | Find Numbers with Even Number of Digits | [Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) |
-| [ ]    | Easy       | #26       | Remove Duplicates from Sorted Array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| [ ]    | Easy       | #66       | Plus One | [Link](https://leetcode.com/problems/plus-one/) |
-| [ ]    | Easy       | #88       | Merge Sorted Array | [Link](https://leetcode.com/problems/merge-sorted-array/) |
-| [ ]    | Easy       | #27       | Remove Element | [Link](https://leetcode.com/problems/remove-element/) |
-| [ ]    | Easy       | #905      | Sort Array By Parity | [Link](https://leetcode.com/problems/sort-array-by-parity/) |
+| [✅]    | Easy       | #1470     | Shuffle the Array | [Link](https://leetcode.com/problems/shuffle-the-array/) |
+| [✅ ]    | Easy       | #1431     | Kids With the Greatest Number of Candies | [Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |
+| [✅ ]    | Easy       | #1512     | Number of Good Pairs | [Link](https://leetcode.com/problems/number-of-good-pairs/) |
+| [✅ ]    | Easy       | #1365     | How Many Numbers Are Smaller Than the Current Number | [Link](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
+| [✅ ]    | Easy       | #1389     | Create Target Array in the Given Order | [Link](https://leetcode.com/problems/create-target-array-in-the-given-order/) |
+| [✅ ]    | Easy       | #1295     | Find Numbers with Even Number of Digits | [Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) |
+| [✅ ]    | Easy       | #26       | Remove Duplicates from Sorted Array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| [✅ ]    | Easy       | #66       | Plus One | [Link](https://leetcode.com/problems/plus-one/) |
+| [✅ ]    | Easy       | #88       | Merge Sorted Array | [Link](https://leetcode.com/problems/merge-sorted-array/) |
+| [✅ ]    | Easy       | #27       | Remove Element | [Link](https://leetcode.com/problems/remove-element/) |
+| [✅ ]    | Easy       | #905      | Sort Array By Parity | [Link](https://leetcode.com/problems/sort-array-by-parity/) |
 
 | Status | Difficulty | Problem # | Title | Link |
 |--------|------------|-----------|-------|------|
