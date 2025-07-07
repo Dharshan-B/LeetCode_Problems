@@ -1,5 +1,5 @@
 package Easy.Arrays;
-//
+//Rickest Customer Wealth
 import java.util.Scanner;
 import java.util.Arrays;
 
