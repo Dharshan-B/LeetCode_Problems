@@ -1,5 +1,6 @@
 package Easy.Arrays;
 import java.util.Arrays;
+//Merge the sorted 
 public class Problem_13 {
    public static void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m - 1; // pointer for nums1
