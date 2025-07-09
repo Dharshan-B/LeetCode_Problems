@@ -1,6 +1,6 @@
 package Easy.Arrays;
 
-public class Problem10 {
+public class Problem_10 {
    public static int findNumbers(int[] nums) {
         int count =0;
         for(int num : nums){
